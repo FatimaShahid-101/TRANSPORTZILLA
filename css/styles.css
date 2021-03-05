@@ -1,0 +1,234 @@
+
+                                                               /*********Header*********/
+.chiller-van{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1554469449-99289c70a3a1?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjV8fGNoaWxsZXIlMjB2YW58ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60') ;
+    
+    background-repeat: no-repeat;
+   background-size: cover;
+  
+}
+.header{
+    padding: 3% 15%;
+    height: 1100px;
+}
+.navbar-custom .navbar-brand{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.navbar-custom .navbar-nav .nav-link{
+    color: whitesmoke;
+    padding-left: 20px;
+    font-size: 16px;
+    font-weight: 600;
+}
+h1{
+   color: white;
+   font-size: 70px; 
+   font-weight: bold;
+}
+h2{
+    color: #FF9001;
+    padding-top: 10px;
+    font-size: 30px;
+    position: absolute;
+    left: 10px;
+}
+#second-div{
+    position: relative;
+    top: 70px;
+    left: 30px;
+} 
+                                                                 /**********About Us************/
+#third-div{
+   
+    background-color:#FF9001;
+    padding: 3% 15%;
+    text-align: center;
+    margin-left:0;
+}
+#third-div h3{
+    margin-top: 50px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: 3rem;
+}
+#bottom{
+    padding-bottom: 50px;
+    font-size: 18px;
+}
+                                                                    /**********Our Services*********/
+#section2{
+background-color:rgb(32, 28, 28) ;
+padding: 3% 15%;
+color: white;
+}
+.img1{
+    height: 250px;
+    width: auto;
+    padding-bottom: 20px;
+    border-radius: 5%;
+}
+
+.pictures{
+    position: relative;
+    left: 30px;
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+.same-p{
+    width:350px;
+    text-align:center;
+    color: white;
+    font-size: 18px;
+}
+.orange{
+    color: #FF9001; 
+    font-weight: bold;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    font-size: 3rem;
+}
+.sameh4{
+    width:350px;
+    text-align:center;
+    color: #FF9001;
+}
+#fourth-div{
+     text-align: center; 
+     padding-top: 50px;  
+     padding-bottom: 80px;   
+}
+#fourth-div p{
+    font-size: 18px;
+}
+
+                                                                        /******Unique******/
+#eight-div{
+    padding-right: 0;
+    padding-left: 0;
+}
+#img2{
+width: 100%;
+background-color: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+height: 100%;
+
+}
+
+#nine-div{
+    background-color:#FF9001;
+   
+    padding-top: 80px;
+    padding-left: 80px;
+    padding-right: 80px;
+  
+    margin-right: 0;
+}
+#nine-div h3{
+    font-weight: bold;
+    font-size: 3rem;
+}
+#nine-div p{
+    font-size: 18px;
+}
+                                                                        /*****Quote****/
+#ten-div{
+    background-color: rgb(32, 28, 28);
+    padding: 3% 15%;
+}
+input{
+    padding-top: 20px;
+    padding-left: 100px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.same-length{
+    padding-left: 400px;
+}
+#para{
+    padding-top: 100px;
+}
+#white{
+    color: #FF9001;
+    padding-bottom: 20px;
+    font-size: 3rem;
+    padding-top: 50px;
+    font-weight: 600;
+}
+.form button{
+    margin-bottom: 50px;
+}
+
+.img3{
+    padding-top: 150px;
+  
+}
+                                                                            /********Last-div******/
+#last-div{
+    background-color:#FF9001 ;
+    padding: 3% 15%;
+    text-align: center;
+}
+#last-div h3{
+    font-weight: bolder;
+    font-size: 2rem;
+    margin-top: 50px;
+    width: 65%;
+    position: relative;
+    left: 230px;
+}
+.button{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+                                                                            /*******Footer*******/
+footer{
+    background-color:rgb(32, 28, 28) ;
+    padding: 3% 15%;
+}
+#first-li{
+    color: #FF9001;
+    font-weight: 600 ;
+    padding-top: 50px;
+    font-size: 2rem;
+}
+footer li{
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#subscribe{
+    color: white;
+    padding-top: 50px;
+    
+}
+#email{
+   
+    padding-left: 230px;
+}
+.last-button{
+margin-bottom: 10px;
+position: relative;
+
+bottom: 6px;
+border-radius: 0;
+
+}
+#subscribe h3{
+    color: #FF9001;
+    font-size: 2rem;
+    padding-bottom: 20px;
+}
+                                                                                /****Copyright***/
+#copyright p{
+    background-color: black;
+    color: white;
+    padding-left:  15%;
+    padding-right: 15%;
+    margin-bottom: 0;
+    padding-top: 15px ;
+    height: 60px;
+    text-align: center;
+}
+    
+    
